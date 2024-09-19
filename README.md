@@ -21,3 +21,24 @@ O teste consiste em construir a de um e-commerce _home_ seguindo o wireframe pro
 3. Depois de avaliarmos o desafio, te chamaremos para conversar e discutir sobre decisões que você tomou no desenvolvimento do projeto.
 4. Achamos que entre **3 a 5 dias** é um tempo ok para fazer o desafio, mas sabemos que nem todo mundo tem o mesmo tempo de disponibilidade. Portanto, nos avise se precisar de mais tempo, ok?
 5. Boa sorte :)
+
+
+## Como executar?
+
+É simples, as coisas que você precisa fazer para executar esse projeto são:
+
+Clonando o repositório:
+
+```git clone https://github.com/L-Goncalves/teste-dev-vtex/```
+
+Entrando no diretório do projeto:
+
+```cd ecommerce-home-page```
+
+Instalando pacotes necessários:
+
+```npm install```
+
+Executando em modo de desenvolvimento:
+
+```npm run dev```
