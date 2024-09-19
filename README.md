@@ -63,12 +63,24 @@ Executando em Testes que foram escritos em Jest:
 * Componente de Carousel para display de Categorias
 * Componente de display de produtos
 * Adicionar e Remover do Carrinho de compras
+* Fiz uma função também para calcular a porcentagem de desconto e mostrar para o usuário que for comprar.
 
 ## Importante:
 * Testes foram adicionados
 * Poderia elaborar mais mas como se trata de um teste fiz o básico mas ainda sim entregando um pouco a mais.
 * Tive que corrigir a API de mock pois estava fora do AR.
 * Também poderia ter feito um popup para abrir o carrinho usando Portal no React.
+
+## O que mais eu adicionaria se não fosse um teste?
+* Login Social
+* Integração com API's de Pagamento
+* Página de Checkout
+* Paginação.
+* Cadastro de usuário
+* Página para editar o cadastro
+* LocalStorage pra salvar cookies e evitar ficar logando toda vez novamente.
+* Página de Produto com opção de dar Zoom no produto
+
 
 
 Nota: foi um projeto bem divertido e agradeço pelo teste fico no aguardo por uma resposta :)
