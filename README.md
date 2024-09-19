@@ -42,3 +42,29 @@ Instalando pacotes necessários:
 Executando em modo de desenvolvimento:
 
 ```npm run dev```
+
+
+## Como executar?
+
+É simples, as coisas que você precisa fazer para executar esse projeto são:
+
+Clonando o repositório:
+
+```git clone https://github.com/L-Goncalves/teste-dev-vtex/```
+
+Entrando no diretório do projeto:
+
+```cd ecommerce-home-page```
+
+Instalando pacotes necessários:
+
+```npm ci```
+
+Executando em modo de desenvolvimento:
+
+```npm run dev```
+
+
+Executando em Testes que foram escritos em Jest:
+
+```npm run test```

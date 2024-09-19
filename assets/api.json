@@ -11,35 +11,35 @@
   },
   {
     "sku": "2",
-    "name": "Actine Darrow Sabonete Líquido 400ml",
-    "image": "https://www.araujo.com.br/arquivos/ids/4141233-200-200/03282770201826_0.jpg",
+    "name": "Energético Monster Energy Zero Açúcar 473ml",
+    "image": "https://i3-imagens-prd.araujo.com.br/webp/101165/7898938890076_1.webp",
     "priceSpecification": {
-      "price": 55.99,
-      "oldPrice": 60.99
+      "price": 8.49,
+      "oldPrice": 30.00
     }
   },
   {
     "sku": "3",
-    "name": "Soro Fisiológico 0,9% Mió com 500ml",
-    "image": "https://www.araujo.com.br/arquivos/ids/4063633-200-200/07896830001736.jpg",
+    "name": "Energético Red Bull Açaí 250ml",
+    "image": "https://i3-imagens-prd.araujo.com.br/webp/88482/9002490235192_1.webp",
     "priceSpecification": {
       "price": 6.49
     }
   },
   {
     "sku": "4",
-    "name": "Fralda Cremer Disney Baby Tamanho G Prática com 24 Fraldas Descartáveis",
-    "image": "https://www.araujo.com.br/arquivos/ids/4077905-200-200/07898064035587.jpg",
+    "name": "Energético Monster Ultra Melancia Zero Açúcar 473ml",
+    "image": "https://i3-imagens-prd.araujo.com.br/webp/95270/1220000250222_1.webp",
     "priceSpecification": {
-      "price": 13.90,
-      "oldPrice": 23.49,
-      "discount": 40
+      "price": 8.49,
+      "oldPrice": 13.49,
+      "discount": 5
     }
   },
   {
     "sku": "5",
-    "name": "Rosuvastatina 10mg EMS Genérico com 30 Comprimidos",
-    "image": "https://www.araujo.com.br/arquivos/ids/4056257-200-200/07896004729640.jpg",
+    "name": "Energético Original Zero Açúcar Baly Flynow Lata 250ml",
+    "image": "https://i3-imagens-prd.araujo.com.br/webp/101344/7898080663849_1.webp",
     "priceSpecification": {
       "price": 15.99,
       "oldPrice": 106.72,
@@ -48,12 +48,69 @@
   },
   {
     "sku": "6",
-    "name": "L'Oréal Professionnel Expert Absolut Repair Cortex Lipidium - Máscara de Reconstrução 500g",
-    "image": "https://www.araujo.com.br/arquivos/ids/4137619-200-200/07896523200576.jpg",
+    "name": "Shampoo Dove Nutritive Solutions Reconstrução Completa 670ml Tamanho Econômico",
+    "image": "https://i3-imagens-prd.araujo.com.br/webp/95856/7891150077997_1.webp",
     "priceSpecification": {
-      "price": 22.56,
-      "oldPrice": 11.79,
-      "discount": 47
+      "price": 27.99,
+      "oldPrice": 30.99,
+      "discount": 4
+    }
+  },
+  {
+    "sku": "7",
+    "name": "Hidratante Labial Carmed Ana Castela Efeito Gloss Brigadeiro 10g",
+    "image": "https://i3-imagens-prd.araujo.com.br/webp/102236/132531_7897947617940_1.webp",
+    "priceSpecification": {
+      "price": 31.0,
+      "oldPrice": 50.0,
+      "discount": 19
+    }
+  },
+  {
+    "sku": "8",
+    "name": "Desodorante Nivea Invisible Black & White Clear Aerosol Antitranspirante 200ml",
+    "image": "https://i3-imagens-prd.araujo.com.br/webp/63480/4005900105073_1.webp",
+    "priceSpecification": {
+      "price": 14.49,
+      "oldPrice": 16.99
+    }
+  },
+  {
+    "sku": "9",
+    "name": "Hidratante Labial Carmed Fini Amoras Amora com Cor 10g",
+    "image": "https://i3-imagens-prd.araujo.com.br/webp/102938/137630_7897947619517_1.webp",
+    "priceSpecification": {
+      "price": 6.49
+    }
+  },
+  {
+    "sku": "10",
+    "name": "Hidratante Labial Nivea Ultra Hialurônico 5,2g",
+    "image": "https://i3-imagens-prd.araujo.com.br/webp/95936/4005900995544_1.webp",
+    "priceSpecification": {
+      "price": 34.99,
+      "oldPrice": 24.99,
+      "discount": 10
+    }
+  },
+  {
+    "sku": "11",
+    "name": "Escova Dental Curaprox Ultra Soft CS 5460 Cores Sortidas 3 Unidades",
+    "image": "https://i3-imagens-prd.araujo.com.br/webp/88512/07612412422429_1.webp",
+    "priceSpecification": {
+      "price": 15.99,
+      "oldPrice": 100.00,
+      "discount": 83.99
+    }
+  },
+  {
+    "sku": "12",
+    "name": "Carga para Aparelho de Barbear Dr. Jones The Razon 6 com 4 Unidades",
+    "image": "https://i3-imagens-prd.araujo.com.br/webp/98005/7891033570324_1.webp",
+    "priceSpecification": {
+      "price": 34.99 ,
+      "oldPrice": 37.89,
+      "discount": 3.9
     }
   }
 ]

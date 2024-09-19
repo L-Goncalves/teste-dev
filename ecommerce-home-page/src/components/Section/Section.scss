@@ -1,0 +1,43 @@
+.section{
+    margin: 50px 15vw;
+    background-color: white;
+    border-radius: 5px;
+    padding: 50px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    
+
+    .description{
+        padding-bottom: 15px;
+        margin-bottom: 30px;
+        border-bottom: 1px solid rgba(0, 0, 0, 0.075);
+    }
+
+    .btn-title{
+        margin: auto auto;
+    }
+    @media (max-width: 768px) {
+        margin: 30px 5vw; 
+        padding: 20px;   
+    
+        .description {
+          padding-bottom: 10px;
+          margin-bottom: 20px;
+        }
+    
+        .btn-title {
+          margin: auto auto;
+        }
+      }
+    
+  
+      @media (max-width: 480px) {
+        margin: 20px 3vw; 
+        padding: 15px;    
+    
+        .description {
+          padding-bottom: 8px;
+          margin-bottom: 15px;
+        }
+      }
+
+}
