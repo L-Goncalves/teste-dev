@@ -44,6 +44,14 @@ Executando em modo de desenvolvimento:
 ```npm run dev```
 
 
+Depois disso é só acessar para acessar a aplicação:
+
+```localhost:5173```
+
+
+
+
+
 Executando em Testes que foram escritos em Jest:
 
 ```npm run test```
@@ -60,3 +68,7 @@ Executando em Testes que foram escritos em Jest:
 * Testes foram adicionados
 * Poderia elaborar mais mas como se trata de um teste fiz o básico mas ainda sim entregando um pouco a mais.
 * Tive que corrigir a API de mock pois estava fora do AR.
+* Também poderia ter feito um popup para abrir o carrinho usando Portal no React.
+
+
+Nota: foi um projeto bem divertido e agradeço pelo teste fico no aguardo por uma resposta :)
