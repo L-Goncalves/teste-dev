@@ -4,7 +4,7 @@ import { ProductItem } from '../types';
 //  HERE WE COULD FOR EXAMPLE ADD PAGE PARAMS ETC
 export const getProducts = async () : Promise<ProductItem[] | void>=> {
     
-    const endpointUrl = 'https://run.mocky.io/v3/fb9d7c62-cd62-41ea-bdc7-e6e552dbc3a2'
+    const endpointUrl = 'https://raw.githubusercontent.com/L-Goncalves/teste-dev/refs/heads/master/assets/api.json'
 
     try {
        const result = await axios.get(endpointUrl)
